@@ -1,0 +1,45 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.swp
+*~
+
+# Временные файлы
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Зависимости и сборка
+node_modules/
+vendor/
+dist/
+build/
+*.pyc
+__pycache__/
+*.class
+target/
+
+# Локальные конфигурации
+.env
+.env.local
+*.local
+config.local.*
+
+# Резервные копии
+*.bak
+*.backup
+*backup/
+
+# Obsidian
+.obsidian/
