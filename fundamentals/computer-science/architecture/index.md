@@ -1,0 +1,93 @@
+# Архитектура компьютеров
+
+## Организация компьютера
+- Базовые компоненты компьютера [→](/notes/computer_components.md)
+- Шины и интерфейсы [→](/notes/buses_interfaces.md)
+- Архитектура фон Неймана [→](/notes/von_neumann.md)
+- RISC архитектура [→](/notes/risc.md)
+- CISC архитектура [→](/notes/cisc.md)
+- Системная плата [→](/notes/motherboard.md)
+- Чипсет и его функции [→](/notes/chipset.md)
+- Тактовая частота [→](/notes/clock.md)
+- Адресация памяти [→](/notes/memory_addressing.md)
+- Система команд [→](/notes/instruction_set.md)
+
+## Процессоры и память
+- Архитектура процессора [→](/notes/cpu_arch.md)
+- Регистры общего назначения [→](/notes/registers.md)
+- Арифметико-логическое устройство [→](/notes/alu.md)
+- Кэш первого уровня [→](/notes/l1_cache.md)
+- Кэш второго уровня [→](/notes/l2_cache.md)
+- Кэш третьего уровня [→](/notes/l3_cache.md)
+- DRAM память [→](/notes/dram.md)
+- SRAM память [→](/notes/sram.md)
+- ROM и PROM [→](/notes/rom.md)
+- Flash память [→](/notes/flash.md)
+- Страничная организация памяти [→](/notes/paging.md)
+- Сегментация памяти [→](/notes/segmentation.md)
+
+## Системы ввода-вывода
+- Контроллеры устройств [→](/notes/device_controllers.md)
+- Механизм прерываний [→](/notes/interrupts.md)
+- Обработка прерываний [→](/notes/interrupt_handling.md)
+- Прямой доступ к памяти [→](/notes/dma.md)
+- Последовательные порты [→](/notes/serial_ports.md)
+- Параллельные порты [→](/notes/parallel_ports.md)
+- USB интерфейс [→](/notes/usb.md)
+- PCI и PCIe [→](/notes/pci.md)
+- SATA интерфейс [→](/notes/sata.md)
+- Накопители данных [→](/notes/storage.md)
+
+## Параллельные архитектуры
+- Многоядерные процессоры [→](/notes/multicore.md)
+- Векторные операции [→](/notes/vector_ops.md)
+- SIMD инструкции [→](/notes/simd.md)
+- Суперскалярность [→](/notes/superscalar.md)
+- SMP системы [→](/notes/smp.md)
+- NUMA архитектура [→](/notes/numa.md)
+- Кластерные системы [→](/notes/clusters.md)
+- Грид-вычисления [→](/notes/grid.md)
+
+## Микроархитектура
+- Конвейерная обработка [→](/notes/pipelining.md)
+- Предсказание переходов [→](/notes/branch_prediction.md)
+- Спекулятивное исполнение [→](/notes/speculative_execution.md)
+- Внеочередное исполнение [→](/notes/out_of_order.md)
+- Переименование регистров [→](/notes/register_renaming.md)
+- Микрокод [→](/notes/microcode.md)
+- Декодирование инструкций [→](/notes/instruction_decode.md)
+- Буфер переупорядочивания [→](/notes/reorder_buffer.md)
+
+## Конвейерная обработка
+- Этапы конвейера [→](/notes/pipeline_stages.md)
+- Структурные конфликты [→](/notes/structural_hazards.md)
+- Конфликты по данным [→](/notes/data_hazards.md)
+- Конфликты управления [→](/notes/control_hazards.md)
+- Обход конфликтов [→](/notes/hazard_bypassing.md)
+- Параллелизм уровня команд [→](/notes/ilp.md)
+- Планирование инструкций [→](/notes/instruction_scheduling.md)
+- Оптимизация конвейера [→](/notes/pipeline_optimization.md)
+
+## Кэширование
+- Принципы кэширования [→](/notes/cache_principles.md)
+- Ассоциативность кэша [→](/notes/cache_associativity.md)
+- Политика записи [→](/notes/write_policy.md)
+- Политика чтения [→](/notes/read_policy.md)
+- LRU замещение [→](/notes/lru.md)
+- FIFO замещение [→](/notes/fifo.md)
+- Когерентность кэшей [→](/notes/cache_coherency.md)
+- MESI протокол [→](/notes/mesi.md)
+- MOESI протокол [→](/notes/moesi.md)
+- Инклюзивные кэши [→](/notes/inclusive_cache.md)
+
+## Виртуализация
+- Аппаратная виртуализация [→](/notes/hardware_virtualization.md)
+- Программная виртуализация [→](/notes/software_virtualization.md)
+- Гипервизор первого типа [→](/notes/type1_hypervisor.md)
+- Гипервизор второго типа [→](/notes/type2_hypervisor.md)
+- Паравиртуализация [→](/notes/paravirtualization.md)
+- Виртуальные машины [→](/notes/virtual_machines.md)
+- Контейнеры [→](/notes/containers.md)
+- Docker [→](/notes/docker.md)
+- Kubernetes [→](/notes/kubernetes.md)
+- Облачные платформы [→](/notes/cloud_platforms.md)

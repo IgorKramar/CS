@@ -1,0 +1,73 @@
+# Базовые концепции и парадигмы программирования
+
+## Переменные и типы данных
+- Концепция переменных [→](/notes/variables_concept.md)
+- Правила именования переменных [→](/notes/variable_naming.md)
+- Статическая и динамическая типизация [→](/notes/typing_systems.md)
+- Целочисленные типы данных [→](/notes/integer_types.md)
+- Числа с плавающей точкой [→](/notes/floating_point.md)
+- Логический тип данных [→](/notes/boolean_type.md)
+- Символьный тип данных [→](/notes/char_type.md)
+- Строковый тип данных [→](/notes/string_type.md)
+- Массивы и коллекции [→](/notes/arrays_collections.md)
+- Указатели и ссылки [→](/notes/pointers_references.md)
+
+## Операторы и выражения  
+- Унарные операторы [→](/notes/unary_operators.md)
+- Бинарные операторы [→](/notes/binary_operators.md)
+- Тернарный оператор [→](/notes/ternary_operator.md)
+- Операторы присваивания [→](/notes/assignment_operators.md)
+- Арифметические операции [→](/notes/arithmetic_operations.md)
+- Операции сравнения [→](/notes/comparison_operations.md)
+- Логические операции [→](/notes/logical_operations.md)
+- Побитовые операции [→](/notes/bitwise_operations.md)
+- Приоритет и ассоциативность [→](/notes/operator_precedence.md)
+- Преобразование типов в выражениях [→](/notes/type_conversion.md)
+
+## Управляющие конструкции
+- Условный оператор if [→](/notes/if_statement.md)
+- Множественный выбор else-if [→](/notes/else_if_chains.md)
+- Оператор switch [→](/notes/switch_statement.md)
+- Цикл while [→](/notes/while_loop.md)
+- Цикл do-while [→](/notes/do_while_loop.md)
+- Цикл for [→](/notes/for_loop.md)
+- Цикл foreach [→](/notes/foreach_loop.md)
+- Оператор break [→](/notes/break_statement.md)
+- Оператор continue [→](/notes/continue_statement.md)
+- Обработка исключений try-catch [→](/notes/exception_handling.md)
+
+## Функции и процедуры
+- Определение функций [→](/notes/function_definition.md)
+- Параметры функций [→](/notes/function_parameters.md)
+- Возвращаемые значения [→](/notes/return_values.md)
+- Перегрузка функций [→](/notes/function_overloading.md)
+- Рекурсивные функции [→](/notes/recursive_functions.md)
+- Анонимные функции [→](/notes/anonymous_functions.md)
+- Замыкания [→](/notes/closures.md)
+- Функции высшего порядка [→](/notes/higher_order_functions.md)
+- Чистые функции [→](/notes/pure_functions.md)
+- Побочные эффекты [→](/notes/side_effects.md)
+
+## Парадигмы программирования
+- Императивное программирование [→](/notes/imperative_programming.md)
+- Декларативное программирование [→](/notes/declarative_programming.md)
+- Структурное программирование [→](/notes/structured_programming.md)
+- Процедурное программирование [→](/notes/procedural_programming.md)
+- Объектно-ориентированное программирование [→](/notes/oop_basics.md)
+- Функциональное программирование [→](/notes/functional_programming.md)
+- Логическое программирование [→](/notes/logic_programming.md)
+- Параллельное программирование [→](/notes/parallel_programming.md)
+- Реактивное программирование [→](/notes/reactive_programming.md)
+- Аспектно-ориентированное программирование [→](/notes/aspect_oriented.md)
+
+## Абстракция и декомпозиция
+- Уровни абстракции [→](/notes/abstraction_levels.md)
+- Инкапсуляция [→](/notes/encapsulation.md)
+- Модульность [→](/notes/modularity.md)
+- Связность кода [→](/notes/code_cohesion.md)
+- Сцепление модулей [→](/notes/module_coupling.md)
+- Повторное использование кода [→](/notes/code_reuse.md)
+- Принцип DRY [→](/notes/dry_principle.md)
+- Принцип SOLID [→](/notes/solid_principles.md)
+- Проектирование интерфейсов [→](/notes/interface_design.md)
+- Документирование кода [→](/notes/code_documentation.md)

@@ -1,0 +1,73 @@
+# Компьютерные сети
+
+## Сетевые протоколы
+- Модель OSI [→](/notes/osi_model.md)
+- Протокол IP [→](/notes/ip_protocol.md)
+- Протокол TCP [→](/notes/tcp_protocol.md)
+- Протокол UDP [→](/notes/udp_protocol.md)
+- HTTP протокол [→](/notes/http_protocol.md)
+- HTTPS и SSL/TLS [→](/notes/https_ssl.md)
+- DNS система [→](/notes/dns_system.md)
+- DHCP протокол [→](/notes/dhcp_protocol.md)
+- FTP протокол [→](/notes/ftp_protocol.md)
+- SMTP и Email [→](/notes/smtp_email.md)
+
+## Маршрутизация
+- Статическая маршрутизация [→](/notes/static_routing.md)
+- Динамическая маршрутизация [→](/notes/dynamic_routing.md)
+- Протокол RIP [→](/notes/rip_protocol.md)
+- Протокол OSPF [→](/notes/ospf_protocol.md)
+- Протокол BGP [→](/notes/bgp_protocol.md)
+- Таблицы маршрутизации [→](/notes/routing_tables.md)
+- Маршрутизация в IPv6 [→](/notes/ipv6_routing.md)
+- Многоадресная рассылка [→](/notes/multicast.md)
+- QoS маршрутизация [→](/notes/qos_routing.md)
+- Балансировка нагрузки [→](/notes/load_balancing.md)
+
+## Сетевая безопасность
+- Брандмауэры [→](/notes/firewalls.md)
+- VPN технологии [→](/notes/vpn.md)
+- Шифрование данных [→](/notes/data_encryption.md)
+- Цифровые сертификаты [→](/notes/digital_certificates.md)
+- Аутентификация [→](/notes/network_auth.md)
+- Системы обнаружения вторжений [→](/notes/ids.md)
+- Защита от DDoS [→](/notes/ddos_protection.md)
+- Безопасность Wi-Fi [→](/notes/wifi_security.md)
+- Сетевой аудит [→](/notes/network_audit.md)
+- Управление доступом [→](/notes/access_control.md)
+
+## Беспроводные сети
+- Wi-Fi стандарты [→](/notes/wifi_standards.md)
+- Bluetooth технология [→](/notes/bluetooth.md)
+- Сотовые сети [→](/notes/cellular_networks.md)
+- 5G технологии [→](/notes/5g_tech.md)
+- Беспроводные сенсорные сети [→](/notes/wsn.md)
+- MIMO системы [→](/notes/mimo.md)
+- Роуминг [→](/notes/roaming.md)
+- Радиочастотные помехи [→](/notes/rf_interference.md)
+- Mesh-сети [→](/notes/mesh_networks.md)
+- IoT сети [→](/notes/iot_networks.md)
+
+## Сетевое оборудование
+- Коммутаторы [→](/notes/switches.md)
+- Маршрутизаторы [→](/notes/routers.md)
+- Сетевые карты [→](/notes/network_cards.md)
+- Модемы [→](/notes/modems.md)
+- Точки доступа [→](/notes/access_points.md)
+- Повторители [→](/notes/repeaters.md)
+- Мосты [→](/notes/bridges.md)
+- Концентраторы [→](/notes/hubs.md)
+- Балансировщики нагрузки [→](/notes/load_balancers.md)
+- Межсетевые экраны [→](/notes/hardware_firewalls.md)
+
+## Сетевое программирование
+- Сокеты [→](/notes/sockets.md)
+- API сетевого программирования [→](/notes/network_api.md)
+- Асинхронный ввод-вывод [→](/notes/async_io.md)
+- Обработка сетевых пакетов [→](/notes/packet_processing.md)
+- Протоколы прикладного уровня [→](/notes/application_protocols.md)
+- WebSocket [→](/notes/websocket.md)
+- gRPC [→](/notes/grpc.md)
+- REST API [→](/notes/rest_api.md)
+- GraphQL [→](/notes/graphql.md)
+- Микросервисная архитектура [→](/notes/microservices.md)
